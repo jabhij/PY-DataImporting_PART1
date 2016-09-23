@@ -18,7 +18,10 @@ In this repo you'll find how to **_Import Data into Python_** from various sourc
 ### The Learning Tree
 
 Follow these:
-Loading ...
+- [PART-1](https://github.com/jabhij/DataImporting_Python/tree/master/PART-1)
+  - [Introduction to Flat Files](https://github.com/jabhij/DataImporting_Python/tree/master/PART-1/Introduction_Flat_Files)
+- [PART-2]() (Loading..)
+- [PART-3]() (Loading..)
 
 ### Catch me
 
