@@ -10,7 +10,7 @@ In this repo you'll find how to **_Import Data into Python_** from various sourc
 ### Description
 
 - Language: Python
-- Libraries: `Numpy, Pandas`
+- Libraries: `Numpy, Pandas, matplotlib`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
 - Outcome: Requirement Based
