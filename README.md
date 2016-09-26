@@ -10,7 +10,8 @@ In this repo you'll find how to **_Import Data into Python_** from various sourc
 ### Description
 
 - Language: Python
-- Libraries: `Numpy, Pandas, matplotlib`
+- Libraries: `Pandas`
+- Packages: `Numpy, matplotlib, h55py, pickle`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
 - Outcome: Requirement Based
@@ -20,6 +21,9 @@ In this repo you'll find how to **_Import Data into Python_** from various sourc
 Follow these:
 - [PART-1](https://github.com/jabhij/DataImporting_Python/tree/master/PART-1)
   - [Introduction to Flat Files](https://github.com/jabhij/DataImporting_Python/tree/master/PART-1/Introduction_Flat_Files)
+  - [Introduction to Other File Type](https://github.com/jabhij/Data-Importing_Python/new/master/PART-1/Introduction_Other_FileType)
+  - [Working with Relational DataBase]() (Loading..)
+
 - [PART-2]() (Loading..)
 - [PART-3]() (Loading..)
 
