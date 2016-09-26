@@ -10,7 +10,7 @@ In this repo you'll find how to **_Import Data into Python_** from various sourc
 ### Description
 
 - Language: Python
-- Libraries: `Pandas`
+- Libraries: `Pandas, SciPy`
 - Packages: `Numpy, matplotlib, h55py, pickle`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
@@ -25,7 +25,6 @@ Follow these:
   - [Working with Relational DataBase]() (Loading..)
 
 - [PART-2]() (Loading..)
-- [PART-3]() (Loading..)
 
 ### Catch me
 
