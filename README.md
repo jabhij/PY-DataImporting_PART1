@@ -11,7 +11,7 @@ In this repo you'll find how to **_Import Data into Python_** from various sourc
 
 - Language: Python
 - Libraries: `Pandas, SciPy`
-- Packages: `Numpy, matplotlib, h55py, pickle`
+- Packages: `Numpy, matplotlib, h55py, pickle, SQLAlchemy`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
 - Outcome: Requirement Based
