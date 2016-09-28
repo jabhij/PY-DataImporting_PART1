@@ -9,15 +9,17 @@ Let's go through the workflow in these six easy steps--
 **`import pandas as pd`**
 
 - Connect to the Engine   
-**`engine = create_engine('sqlite:///Database_Name.sqlite')`**
-
-- Query the Database   
+**`engine = create_engine('sqlite:///Database_Name.sqlite')`**   
 **`con = engine.connect()`**
 
-- Save Query Results to a DataFrame   
+- Query the Database   
 **`rs = con.execute("SELECT * from Table_Name")`**
 
+- Save Query Results to a DataFrame   
+**`df = pd.DataFrame(rs.fetchall())`**   
+**`df.colums = rs.keys()`**
+
 - Close the Connection   
-**`df = pd.DataFrame(rs.fetchall())`**
+**`con.close()`**
 
 As simple as that.
