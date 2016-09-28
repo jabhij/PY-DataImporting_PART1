@@ -39,8 +39,8 @@ You'll skip some steps - _Closing_
 - Connect to the Engine   
 **`engine = create_engine('sqlite:///Database_Name.sqlite')`**  
 
-- Context Manager into role
+- Context Manager into role  
 **`with engine.connect() as con:`**   
-              **`rs = con.execute("SELECT * from Table_Name")`**   
-              **`df = pd.DataFrame(rs.fetchall())`** 
-              **`df.colums = rs.keys()`**
+                    **`rs = con.execute("SELECT * from Table_Name")`**   
+                    **`df = pd.DataFrame(rs.fetchall())`**   
+                    **`df.colums = rs.keys()`**
