@@ -2,7 +2,7 @@
 
 This repo is divided into two parts simlataneously. Let's explore each with a brief description.
 
-### PART-1
+## PART-1
 
 In the PART-1 you'll find how to **_Import Data into Python_** from sources such as--
 
@@ -10,7 +10,16 @@ In the PART-1 you'll find how to **_Import Data into Python_** from sources such
 - Native to other Software (_` Excel SpredSheets, Stata, SAS, Matlab `_)
 - From Relational DataBase (_` SQLite, PostgreSQL `_)
 
-### PART-2
+### Description
+
+- Language: Python
+- Libraries: `Pandas, SciPy`
+- Packages: `Numpy, matplotlib, h55py, pickle, SQLAlchemy`
+- Input: Any type of Data Source
+- Operations: `Data Manipulation, Handling, Import, etc.`
+- Outcome: Requirement Based
+
+## PART-2
 
 In the PART-2 you'll find how to **_Import Data into Python_** from sources such as--
 
@@ -23,13 +32,13 @@ In the PART-2 you'll find how to **_Import Data into Python_** from sources such
 ### Description
 
 - Language: Python
-- Libraries: `Pandas, SciPy`
-- Packages: `Numpy, matplotlib, h55py, pickle, SQLAlchemy`
+- Libraries: `Pandas`
+- Packages: `urllib.request, matplotlib`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
 - Outcome: Requirement Based
 
-### The Learning Tree
+## The Learning Tree
 
 Follow these:
 - [PART-1](https://github.com/jabhij/DataImporting_Python/tree/master/PART-1)
@@ -40,11 +49,10 @@ Follow these:
 - [PART-2](https://github.com/jabhij/Data-Importing_Python/tree/master/PART-2) 
   - Loading..
 
-### Catch me
+## Catch me
 
 For any query, ping me on 
 - Twitter: [@jabhij] (https://twitter.com/jabhij)
 - Web: [LetUsTweak] (http://letustweak.com)
 
 Hope, it helps!! ヅ
-
