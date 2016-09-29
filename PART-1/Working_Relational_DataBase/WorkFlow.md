@@ -41,6 +41,21 @@ You'll skip some steps - _Closing_
 
 - Context Manager into role  
 **`with engine.connect() as con:`**   
-                    **`rs = con.execute("SELECT * from Table_Name")`**   
-                    **`df = pd.DataFrame(rs.fetchall())`**   
-                    **`df.colums = rs.keys()`**
+                  \t\t\t  **`rs = con.execute("SELECT * from Table_Name")`**   
+                  \t\t\t  **`df = pd.DataFrame(rs.fetchall())`**   
+                  \t\t\t  **`df.colums = rs.keys()`**    
+_ Where \t is for tab_
+
+### 3: The PANDAS Approach
+
+- Import Pakcages and Functions   
+**`from sqlalchemy import create_engine`**
+
+- Create the DataBase Engine   
+**`import pandas as pd`**
+
+- Connect to the Engine   
+**`engine = create_engine('sqlite:///Database_Name.sqlite')`**  
+
+- PANDAS way to Query    
+**`df = pd.read_sql_query("SELECT * from TABLE_NAME", engine)`**
