@@ -33,7 +33,7 @@ In the PART-2 you'll find how to **_Import Data into Python_** from sources such
 
 - Language: Python
 - Libraries: `Pandas`
-- Packages: `urllib.request, matplotlib, requests`
+- Packages: `urllib.request, matplotlib, requests, BeautifulSoup, bs4`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
 - Outcome: Requirement Based
@@ -47,6 +47,7 @@ Follow these:
   - [Working with Relational DataBase](https://github.com/jabhij/Data-Importing_Python/tree/master/PART-1/Working_Relational_DataBase)
 
 - [PART-2](https://github.com/jabhij/Data-Importing_Python/tree/master/PART-2) 
+  - [Importing Data from Internet](https://github.com/jabhij/Data-Importing_Python/new/master/PART-2/ImportingData_from_Internet)
   - Loading..
 
 ## Catch me
