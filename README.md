@@ -33,7 +33,7 @@ In the PART-2 you'll find how to **_Import Data into Python_** from sources such
 
 - Language: Python
 - Libraries: `Pandas`
-- Packages: `urllib.request, matplotlib`
+- Packages: `urllib.request, matplotlib, requests`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
 - Outcome: Requirement Based
