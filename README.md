@@ -33,7 +33,7 @@ In the PART-2 you'll find how to **_Import Data into Python_** from sources such
 
 - Language: Python
 - Libraries: `Pandas`
-- Packages: `urllib.request, matplotlib, requests, BeautifulSoup, bs4`
+- Packages: `urllib.request, matplotlib, requests, BeautifulSoup, bs4, tweepy, json`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
 - Outcome: Requirement Based
@@ -48,7 +48,8 @@ Follow these:
 
 - [PART-2](https://github.com/jabhij/Data-Importing_Python/tree/master/PART-2) 
   - [Importing Data from Internet](https://github.com/jabhij/Data-Importing_Python/new/master/PART-2/ImportingData_from_Internet)
-  - Loading..
+  - [Introduction APIs and JSONs](https://github.com/jabhij/Data-Importing_Python/tree/master/PART-2/Introduction_APIs_JSONs)
+  - [The Twitter API and Authentication]()
 
 ## Catch me
 
