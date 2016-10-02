@@ -5,4 +5,3 @@ Instructions --
 - To filter Twitter Streams, pass to the track argument in stream.filter() a list containing the desired keywords 'clinton', 'trump', 
 'sanders', and 'cruz'.
 """
-
