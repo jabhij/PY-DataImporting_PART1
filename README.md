@@ -33,7 +33,7 @@ In the PART-2 you'll find how to **_Import Data into Python_** from sources such
 
 - Language: Python
 - Libraries: `Pandas`
-- Packages: `urllib.request, matplotlib, requests, BeautifulSoup, bs4, tweepy, json`
+- Packages: `urllib.request, matplotlib, requests, BeautifulSoup, bs4, tweepy, json, seaborn`
 - Input: Any type of Data Source
 - Operations: `Data Manipulation, Handling, Import, etc.`
 - Outcome: Requirement Based
