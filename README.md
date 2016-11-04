@@ -20,8 +20,8 @@ In the PART-1 you'll find how to **_Import Data into Python_** from sources such
 Follow these:
 - [PART-1](https://github.com/jabhij/DataImporting_Python/tree/master/PART-1)
   - [Introduction to Flat Files](https://github.com/jabhij/DataImporting_Python/tree/master/PART-1/Introduction_Flat_Files)
-  - [Introduction to Other File Type](https://github.com/jabhij/Data-Importing_Python/new/master/PART-1/Introduction_Other_FileType)
-  - [Working with Relational DataBase](https://github.com/jabhij/Data-Importing_Python/tree/master/PART-1/Working_Relational_DataBase)
+  - [Introduction to Other File Type](https://github.com/jabhij/DataImporting_Python-PART1/tree/master/PART-1/Introduction_Other_FileType)
+  - [Working with Relational DataBase](https://github.com/jabhij/DataImporting_Python-PART1/tree/master/PART-1/Working_Relational_DataBase)
 
 ## Catch me
 
